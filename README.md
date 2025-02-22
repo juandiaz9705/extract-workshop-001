@@ -11,6 +11,8 @@ Desarrollar un proceso automatizado que:
 - Aplica transformaciones específicas.
 - Genera una tabla final con los datos procesados.
 
+
+
 TECNOLOGÍAS UTILIZADAS
 
 -Python 3.x
@@ -19,6 +21,8 @@ TECNOLOGÍAS UTILIZADAS
 -Pandas
 -SQLAlchemy
 -PyYAML
+
+
 
 REVISIÓN DEL TALLER
 
