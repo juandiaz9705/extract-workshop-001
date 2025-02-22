@@ -20,14 +20,11 @@ TECNOLOGÍAS UTILIZADAS
 -SQLAlchemy
 -PyYAML
 
+REVISIÓN DEL TALLER
 
-INSTALACIÓN Y CONFIGURACIÓN
+El notebook con la ejecución completa del ejercicio se encuentra en:
 
-Prerrequisitos
-
-Python 3.x instalado
-PostgreSQL instalado y corriendo
-pip (gestor de paquetes de Python)
+/notebooks/001_extract.ipynb
 
 
 PASOS DE INSTALACIÓN
